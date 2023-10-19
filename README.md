@@ -7,6 +7,10 @@
 ### Disciplina: Linguagem de programação Python
 ### Data entrega: 27/06/2023
 
+### **Como Visualização do projeto**
+
+ Para abrir o notebook Colab do projeto "Fundamentos Python Análise de Dados", siga estas etapas: Acesse o repositório do projeto: "Fundamentos_Python_Analise_de_Dados" e em seguida acesse a pasta de nome: "notebook_colab", em seguida clique no arquivo "Projeto_Fundamentos_de_Python_aluno_renato_goncalves_costa_ad2.ipynb", ao clicar no arquivo clique no icone "Abrir no Colab", localizado no canto superior esquerdo da página.
+
 ### **Informações Gerais sobre o projeto**
 
 Este projeto tem como principal objetivo proporcionar ao estudante a verificação das
