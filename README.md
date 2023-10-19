@@ -33,4 +33,4 @@ resposta a seguintes medidas de estatística descritiva para cada variável info
 ● Coeficiente a ou alpha da equação de regressão linear simples para as duas
 variáveis escolhidas pelo usuário;
 ● Coeficiente b ou beta da equação de regressão linear simples para as duas variáveis
-escolhidas pelo usuário;
+escolhidas pelo usuário.
