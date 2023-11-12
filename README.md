@@ -7,12 +7,12 @@
 #### Disciplina: Linguagem de programação Python
 #### Data entrega: 27/06/2023
 
-### **Como Visualização do projeto**
+* **Projeto Fundamentos de Python - Análise de Dados**
+  Projeto realizado como parte do curso "Fundamentos de Python para Análise de Dados". Explore análises e insights gerados neste Colab.
 
- Para abrir o notebook Colab do projeto "Fundamentos Python Análise de Dados", siga estas etapas: Acesse o repositório do projeto: "Fundamentos_Python_Analise_de_Dados" e em seguida acesse a pasta de nome: "notebook_colab", em seguida clique no arquivo "Projeto_Fundamentos_de_Python_aluno_renato_goncalves_costa_ad2.ipynb", ao clicar no arquivo clique no icone "Abrir no Colab", localizado no canto superior esquerdo da página.
+  [Acesse o Projeto no Google Colab](https://colab.research.google.com/github/RenatoCosta10031979/Fundamentos_Python_Analise_de_Dados/blob/main/notebook_colab/Projeto_Fundamentos_de_Python_aluno_renato_goncalves_costa_ad2.ipynb)
 
 ### **Informações Gerais sobre o projeto**
-
 <br>Este projeto tem como principal objetivo proporcionar ao estudante a verificação das
 principais habilidades técnicas sobre fundamentos de Python aprendidas na quarta semana
 do Bootcamp de análise de dados na turma AD2. A proposta alia conceitos fundamentais de
